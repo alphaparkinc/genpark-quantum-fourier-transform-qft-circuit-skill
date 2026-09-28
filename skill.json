@@ -1,0 +1,20 @@
+{
+  "name": "genpark-quantum-fourier-transform-qft-circuit-skill",
+  "version": "1.0.0",
+  "description": "Exact Quantum Fourier Transform (QFT) circuit generator and inverse QFT over n-qubit registers",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "qft",
+    "quantum-fourier-transform",
+    "shors-algorithm",
+    "phase-estimation",
+    "quantum-circuits",
+    "python-standard-library",
+    "agent-skills",
+    "quantum-algorithms",
+    "complex-analysis",
+    "spectral-analysis"
+  ]
+}
